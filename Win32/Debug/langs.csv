@@ -1,104 +1,104 @@
-af;Afrikaans
-sq;Albanian
-am;Amharic
-ar;Arabic
-hy;Armenian
-az;Azerbaijani
-eu;Basque
-be;Belarusian
-bn;Bengali
-bs;Bosnian
-bg;Bulgarian
-ca;Catalan
-ceb;Cebuano
-zh-CN;Chinese (Simplified)
-zh-TW;Chinese (Traditional)
-co;Corsican
-hr;Croatian
-cs;Czech
-da;Danish
-nl;Dutch
-en;English
-eo;Esperanto
-et;Estonian
-fi;Finnish
-fr;French
-fy;Frisian
-gl;Galician
-ka;Georgian
-de;German
-el;Greek
-gu;Gujarati
-ht;Haitian Creole
-ha;Hausa
-haw;Hawaiian
-he;Hebrew
-hi;Hindi
-hmn;Hmong
-hu;Hungarian
-is;Icelandic
-ig;Igbo
-id;Indonesian
-ga;Irish
-it;Italian
-ja;Japanese
-jw;Javanese
-kn;Kannada
-kk;Kazakh
-km;Khmer
-ko;Korean
-ku;Kurdish
-ky;Kyrgyz
-lo;Lao
-la;Latin
-lv;Latvian
-lt;Lithuanian
-lb;Luxembourgish
-mk;Macedonian
-mg;Malagasy
-ms;Malay
-ml;Malayalam
-mt;Maltese
-mi;Maori
-mr;Marathi
-mn;Mongolian
-my;Myanmar (Burmese)
-ne;Nepali
-no;Norwegian
-ny;Nyanja (Chichewa)
-ps;Pashto
-fa;Persian
-pl;Polish
-pt;Portuguese (Portugal, Brazil)
-pa;Punjabi
-ro;Romanian
-ru;Russian
-sm;Samoan
-gd;Scots Gaelic
-sr;Serbian
-st;Sesotho
-sn;Shona
-sd;Sindhi
-si;Sinhala (Sinhalese)
-sk;Slovak
-sl;Slovenian
-so;Somali
-es;Spanish
-su;Sundanese
-sw;Swahili
-sv;Swedish
-tl;Tagalog (Filipino)
-tg;Tajik
-ta;Tamil
-te;Telugu
-th;Thai
-tr;Turkish
-uk;Ukrainian
-ur;Urdu
-uz;Uzbek
-vi;Vietnamese
-cy;Welsh
-xh;Xhosa
-yi;Yiddish
-yo;Yoruba
-zu;Zulu
+af;Африкаанс;Afrikaans
+sq;Албанский;Albanian
+am;Амхарский;Amharic
+ar;Арабский;Arabic
+hy;Армянин;Armenian
+az;Азербайджанец;Azerbaijani
+eu;Баскский;Basque
+be;Белорусский;Belarusian
+bn;Бенгальский;Bengali
+bs;Боснийский;Bosnian
+bg;Болгарский;Bulgarian
+ca;Каталонский;Catalan
+ceb;Себуанский;Cebuano
+zh-CN;Китайский (упрощенный);Chinese (Simplified)
+zh-TW;Китайский (традиционный);Chinese (Traditional)
+co;Корсиканец;Corsican
+hr;Хорватский;Croatian
+cs;Чешский язык;Czech
+da;Датский;Danish
+nl;Голландский;Dutch
+en;Английский;English
+eo;Эсперанто;Esperanto
+et;Эстонский;Estonian
+fi;Финский;Finnish
+fr;Французский;French
+fy;Фризский;Frisian
+gl;Галицкая;Galician
+ka;Грузинский;Georgian
+de;Немецкий;German
+el;Греческий;Greek
+gu;Гуджарати;Gujarati
+ht;Гаитянский Креольский;Haitian Creole
+ha;Хауса;Hausa
+haw;Гавайский;Hawaiian
+he;Иврит;Hebrew
+hi;Хинди;Hindi
+hmn;Мяо;Hmong
+hu;Венгерский;Hungarian
+is;Исландский;Icelandic
+ig;Игбо;Igbo
+id;Индонезийский;Indonesian
+ga;Ирландский;Irish
+it;Итальянский;Italian
+ja;Японский язык;Japanese
+jw;Яванский;Javanese
+kn;Каннада;Kannada
+kk;Казах;Kazakh
+km;Кхмерский;Khmer
+ko;Корейский язык;Korean
+ku;Курдский;Kurdish
+ky;Киргизский;Kyrgyz
+lo;Лао;Lao
+la;Латынь;Latin
+lv;Латышский;Latvian
+lt;Литовский язык;Lithuanian
+lb;Люксембургский;Luxembourgish
+mk;Македонский;Macedonian
+mg;Малагасиец;Malagasy
+ms;Малайский;Malay
+ml;Малаялам;Malayalam
+mt;Мальтийский;Maltese
+mi;Маори;Maori
+mr;Маратхи;Marathi
+mn;Монгольский;Mongolian
+my;Мьянма (Бирманский);Myanmar (Burmese)
+ne;Непальский;Nepali
+no;Норвежский язык;Norwegian
+ny;Ньянджа (Чичева);Nyanja (Chichewa)
+ps;Пушту;Pashto
+fa;Персидский;Persian
+pl;Польский;Polish
+pt;Португальский (Португалия, Бразилия);Portuguese (Portugal,Brazil)
+pa;Панджаби;Punjabi
+ro;Румынский;Romanian
+ru;Русский;Russian
+sm;Самоа;Samoan
+gd;Шотландский язык;Scots Gaelic
+sr;Сербский;Serbian
+st;Сесото;Sesotho
+sn;Шона;Shona
+sd;Синдхи;Sindhi
+si;Сингальский (Сингальцы);Sinhala (Sinhalese)
+sk;Словацкий;Slovak
+sl;Словенский;Slovenian
+so;Сомалийский;Somali
+es;Испанский;Spanish
+su;Суданский;Sundanese
+sw;Суахили;Swahili
+sv;Шведский;Swedish
+tl;Тагальский (филиппинский);Tagalog (Filipino)
+tg;Таджикский;Tajik
+ta;Тамильский;Tamil
+te;Телугу;Telugu
+th;Тайский;Thai
+tr;Турецкий;Turkish
+uk;Украинский;Ukrainian
+ur;Урду;Urdu
+uz;Узбекский;Uzbek
+vi;Вьетнамский;Vietnamese
+cy;Валлийский;Welsh
+xh;Кос;Xhosa
+yi;Идиш;Yiddish
+yo;Йоруба;Yoruba
+zu;Зулус;Zulu
